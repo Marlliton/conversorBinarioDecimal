@@ -10,7 +10,7 @@ convertido para *decimal* sera renderizado abaixo após clicar no botão *Calcul
 ![scren](https://user-images.githubusercontent.com/67978032/100280714-62b2ca80-2f47-11eb-93c6-8dc751f4d93a.png)
 
 
-## Histórias do Usuário?
+## Histórias do Usuário.
 
 - [x] O usuário pode inserir uma sequência binária.
 - [x] O usuário vai ser notificado se algo diferente de 0 ou 1 for digitado.
