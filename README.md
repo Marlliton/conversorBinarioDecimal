@@ -1,6 +1,6 @@
 # conversorBinarioDecimal
 
-## Projeto pequeno apenas para o aprendizado da linguagem javaScript e react js
+## Projeto pequeno apenas para o aprendizado da linguagem javaScript e da biblioteca react js.
 
 Neste projeto o usuário pode digitar um conjunto de *números binários* no campo  input e seu resultado,
 convertido para *decimal* sera renderizado abaixo após clicar no botão *Calcular*.
